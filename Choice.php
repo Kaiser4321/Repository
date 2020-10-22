@@ -10,3 +10,4 @@
 <h1><a href="http://localhost/Repository/GCD.php">Exercise no.3</h1></p>
 </body>
 </html>
+//Choices
